@@ -5,8 +5,8 @@ public class Multiply {
         System.out.println("This is my Multiplication");
     }
 
-    public double method2(double a, double b) {
-        return a * b;
+    public double method2(double a, double n) {
+        return a * n;
     }
 
 }
