@@ -8,7 +8,7 @@ public class Main {
    Multiply multiply = new Multiply();
 
    Add.method1();
-   int Sum = Add.method2(15,8);
+   int Sum = Add.method2(15,16);
         System.out.println("The Sum is: " + Sum);
 
 
