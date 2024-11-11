@@ -13,7 +13,7 @@ public class Main {
 
 
         multiply.method1();
-        double product = multiply.method2(18, 18);
+        double product = multiply.method2(18, 20);
         System.out.println("The Product is: " + product);
 
 
