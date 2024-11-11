@@ -7,7 +7,7 @@ public class Addtion {
     }
 
 
-    public int method2(int N, int L) {
-        return N + L;
+    public int method2(int N, int K) {
+        return N + K;
     }
 }
